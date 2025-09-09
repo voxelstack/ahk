@@ -41,6 +41,11 @@ Return
 ; Input
 F13 & '::`
 
+; Media
+F13 & Space::Media_Play_Pause
+F13 & -::Volume_Down
+F13 & =::Volume_Up
+
 ; Quick way to turn off the screen for OLED care
 F13 & o:: Run scrnsave.scr.lnk
 
