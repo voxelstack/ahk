@@ -41,6 +41,9 @@ Return
 ; Input
 F13 & '::`
 
+; Quick way to turn off the screen for OLED care
+F13 & o:: Run scrnsave.scr.lnk
+
 ; Hotstrings for Portuguese diacritics
 ; Send the original key if followed by space
 :*cr:' ::'
