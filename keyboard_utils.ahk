@@ -1,6 +1,7 @@
 ﻿; OS-level remaps
 ; CapsLock::Control
 ; RAlt::F13
+; RShift::F14
 
 ; Script controls
 F13 & F12::Suspend 
@@ -40,6 +41,22 @@ Return
 
 ; Input
 F13 & '::`
+
+; Numpad
+F14 & Space::Numpad0
+F14 & F13::NumpadDot
+
+F14 & ,::Numpad1
+F14 & .::Numpad2
+F14 & /::Numpad3
+
+F14 & l::Numpad4
+F14 & `;::Numpad5
+F14 & '::Numpad6
+
+F14 & o::Numpad7
+F14 & p::Numpad8
+F14 & [::Numpad9
 
 ; Media
 F13 & Space::Media_Play_Pause
