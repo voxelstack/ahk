@@ -51,7 +51,7 @@ These let you navigate and edit text without moving your hands out of typing pos
 
 #### Typing
 
-These are more convenient ways to type characters. They activate when `F13` is held, and they work with `Shift`.
+These are more convenient ways to type characters. They work with `Shift`.
 
 For example on a 60% keyboard, where `Escape` replaces `Backtick` and `Tilde`, it's a lot easier to type `F13 + '` than `Fn + Esc`.
 
@@ -59,14 +59,6 @@ For example on a 60% keyboard, where `Escape` replaces `Backtick` and `Tilde`, i
 | ----------- | ---------- |
 | `'`         | `Backtick` |
 | `Shift + '` | ~          |
-
-#### Media control
-
-| From    | To                 |
-| ------- | ------------------ |
-| `=`     | `Volume_Up`        |
-| `-`     | `Volume_Down`      |
-| `Space` | `Media_Play_Pause` |
 
 #### Select
 
@@ -79,6 +71,20 @@ Pressing `S` again without letting go of `F13` also ends the selection.
 | From | To       |
 | ---- | -------- |
 | `S`  | `Select` |
+
+#### Application launchers
+
+| From | To              |
+| ---- | --------------- |
+| `T`  | `Open terminal` |
+
+#### Media control
+
+| From    | To                 |
+| ------- | ------------------ |
+| `=`     | `Volume_Up`        |
+| `-`     | `Volume_Down`      |
+| `Space` | `Media_Play_Pause` |
 
 #### Screen off
 

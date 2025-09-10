@@ -66,6 +66,9 @@ F13 & =::Volume_Up
 ; Quick way to turn off the screen for OLED care
 F13 & o:: Run scrnsave.scr.lnk
 
+; Open terminal (pinned as the first application on the toolbar)
+F13 & t:: #1
+
 ; Hotstrings for Portuguese diacritics
 ; Send the original key if followed by space
 :*cr:' ::'
